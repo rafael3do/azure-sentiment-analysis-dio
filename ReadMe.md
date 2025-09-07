@@ -5,8 +5,7 @@ A funcionalidade análise de sentimentos e opiniões disponível no Language Stu
 
 Etapas do processo
 
-Os testes seguiram as orientações do Microsoft Learn. Para detalhes adicionais, consulte a página Analyze text with Language Studio
-.
+Os testes seguiram as orientações do Microsoft Learn. Para detalhes adicionais, consulte a página Analyze text with Language Studio.
 
 Criando um recurso do Azure Language Service
 
